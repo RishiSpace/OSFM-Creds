@@ -161,3 +161,4 @@ cython_debug/
 
 #Custom rules
 /output/
+/Binaries/
