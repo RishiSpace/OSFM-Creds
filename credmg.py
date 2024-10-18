@@ -117,6 +117,7 @@ def main():
 
     while True:
         clear_console()
+        print("OSFM Credentials Manager")
         print("1. Store credential")
         print("2. Retrieve credential")
         print("3. Retrieve all credential names")

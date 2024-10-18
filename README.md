@@ -1,4 +1,4 @@
-# OSFM-Creds
+# OSFM Credentials Manager
 
 ## Overview
 
