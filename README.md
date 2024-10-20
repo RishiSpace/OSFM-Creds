@@ -2,7 +2,7 @@
 
 ## Overview
 
-OSFM-Creds is a secure credential storage system designed to store sensitive information such as passwords, API keys, and other credentials. The system uses end-to-end encryption to ensure that only authorized users can access the stored credentials.
+OSFM Credentials Manager is a secure credential storage system designed to store sensitive information such as passwords, API keys, and other credentials. The system uses end-to-end encryption to ensure that only authorized users can access the stored credentials.
 
 **Features**
 
@@ -14,7 +14,7 @@ OSFM-Creds is a secure credential storage system designed to store sensitive inf
 
 **Installation**
 
-To install OSFM-Creds, simply clone the repository and run the script. The script will guide you through the setup process.
+To install OSFM Credentials Manager, Head over to the releases tab and download the binary file (exe)
 
 **Usage**
 
@@ -44,7 +44,7 @@ To install OSFM-Creds, simply clone the repository and run the script. The scrip
 
 **License**
 
-OSFM-Creds is released under the GPL V3 License.
+OSFM Credentials Manager is released under the GPL V3 License.
 
 **Contributing**
 
@@ -52,4 +52,4 @@ Contributions are welcome! Please submit a pull request with your changes and a 
 
 **Disclaimer**
 
-OSFM-Creds is a secure credential storage system, but it is not foolproof. It is the user's responsibility to ensure the security of their credentials and master password.
+OSFM Credentials Manager is a secure credential storage system, but it is not foolproof. It is the user's responsibility to ensure the security of their credentials and master password.
